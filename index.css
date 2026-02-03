@@ -121,6 +121,23 @@ main p {
     font-size: 1.05rem;
 }
 
+/* Lists */
+main ul {
+    margin-left: 2rem;
+    margin-bottom: 1.5rem;
+}
+
+main li {
+    color: #333;
+    font-size: 1.05rem;
+    margin-bottom: 0.8rem;
+    line-height: 1.6;
+}
+
+main section {
+    margin-bottom: 2rem;
+}
+
 /* Footer */
 footer {
     background: rgba(0, 0, 0, 0.2);
